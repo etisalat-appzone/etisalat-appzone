@@ -4,7 +4,7 @@
 <tr>
 <td align='justify'>
 <p>mChoice Applications are open source applications that are developed by hSenid<br>
-Mobile and the community using mChoice Cloud TAP. These applications will be<br>
+Mobile and the community using mChoice Cloud TAP. These appJlications will be<br>
 freely available for downloads on the Telco App Store which is a part of mChoice<br>
 Cloud TAP. The importance of these applications is the open source feature,<br>
 where the developers will be able to download the code of the application,<br>
@@ -27,11 +27,11 @@ customize and make their own applications.</p>
 <p align='justify'>Go through the guides written<br>
 by our experienced community<br>
 members...</p><ul>
-<li><a href='https://code.google.com/p/etisalat-appzone/wiki/GettingStarted'>Getting Started</a></li>
-<li><a href='https://code.google.com/p/etisalat-appzone/wiki/JavaGuide'>Java Guide: SMS</a></li>
-<li><a href='https://code.google.com/p/etisalat-appzone/wiki/DotNetGuide'>.NET Guide: SMS</a></li>
-<li><a href='https://code.google.com/p/etisalat-appzone/wiki/SimulatorGuide'>Simulator Guide</a></li>
-<li><a href='http://code.google.com/p/mchoice-applications/wiki/ApplicationImplementationGuide'>Publish Application</a></li></ul>
+<li><a href='https://github.com/etisalat-appzone/etisalat-appzone/blob/wiki/GettingStarted.md'>Getting Started</a></li>
+<li><a href='https://github.com/etisalat-appzone/etisalat-appzone/blob/wiki/JavaGuide.md'>Java Guide: SMS</a></li>
+<li><a href='https://github.com/etisalat-appzone/etisalat-appzone/blob/wiki/DotNetGuide.md'>.NET Guide: SMS</a></li>
+<li><a href='https://github.com/etisalat-appzone/etisalat-appzone/blob/wiki/SimulatorGuide.md'>Simulator Guide</a></li>
+<li><a href='https://github.com/etisalat-appzone/etisalat-appzone/blob/wiki/ApplicationImplementationGuide.md'>Publish Application</a></li></ul>
 </td>
 <td><img src='http://img708.imageshack.us/img708/5931/homedownload.png' /></td>
 <td> <p> <font size='4'> <b> Downloads </b> </font></p>
