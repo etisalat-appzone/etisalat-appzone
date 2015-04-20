@@ -1,1 +1,1 @@
-etisalat-appzone
+mChoice Applications are open source applications that are developed by hSenid Mobile and the community using mChoice Cloud TAP. These applications will be freely available for downloads on the Telco App Store which is a part of mChoice Cloud TAP. The importance of these applications is the open source feature, where the developers will be able to download the code of the application, customize and make their own applications.
