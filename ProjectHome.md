@@ -27,11 +27,11 @@ customize and make their own applications.</p>
 <p align='justify'>Go through the guides written<br>
 by our experienced community<br>
 members...</p><ul>
-<li><a href='https://github.com/etisalat-appzone/etisalat-appzone/blob/wiki/GettingStarted.md'>Getting Started</a></li>
-<li><a href='https://github.com/etisalat-appzone/etisalat-appzone/blob/wiki/JavaGuide.md'>Java Guide: SMS</a></li>
-<li><a href='https://github.com/etisalat-appzone/etisalat-appzone/blob/wiki/DotNetGuide.md'>.NET Guide: SMS</a></li>
-<li><a href='https://github.com/etisalat-appzone/etisalat-appzone/blob/wiki/SimulatorGuide.md'>Simulator Guide</a></li>
-<li><a href='https://github.com/etisalat-appzone/etisalat-appzone/blob/wiki/ApplicationImplementationGuide.md'>Publish Application</a></li></ul>
+<li><a href='https://github.com/etisalat-appzone/etisalat-appzone/blob/master/GettingStarted.md'>Getting Started</a></li>
+<li><a href='https://github.com/etisalat-appzone/etisalat-appzone/blob/master/JavaGuide.md'>Java Guide: SMS</a></li>
+<li><a href='https://github.com/etisalat-appzone/etisalat-appzone/blob/master/DotNetGuide.md'>.NET Guide: SMS</a></li>
+<li><a href='https://github.com/etisalat-appzone/etisalat-appzone/blob/master/SimulatorGuide.md'>Simulator Guide</a></li>
+<li><a href='https://github.com/etisalat-appzone/etisalat-appzone/blob/master/ApplicationImplementationGuide.md'>Publish Application</a></li></ul>
 </td>
 <td><img src='http://img708.imageshack.us/img708/5931/homedownload.png' /></td>
 <td> <p> <font size='4'> <b> Downloads </b> </font></p>
